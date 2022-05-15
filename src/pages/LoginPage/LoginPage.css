@@ -1,0 +1,11 @@
+.LoginPage {
+    display: flex;
+    flex-direction: column;
+}
+.page-title {
+    text-align: center;
+}
+
+.loginpage-form {
+    width: 500px;
+}
